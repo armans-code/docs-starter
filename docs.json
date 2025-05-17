@@ -123,10 +123,10 @@
             ]
           },
           {
-            "tab": "Справочник по API",
+            "tab": "Справочник API",
             "groups": [
               {
-                "group": "Документация по API",
+                "group": "Документация API",
                 "pages": [
                   "ru/api-reference/introduction"
                 ]
